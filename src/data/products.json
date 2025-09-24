@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Diamond Eternity Necklace",
+    "price": 2500,
+    "category": "necklaces",
+    "image": "https://images.unsplash.com/photo-1685970731571-72ede0cb26ea?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bmVja2xhY2V8ZW58MHx8MHx8fDA%3D",
+    "description": "Exquisite diamond eternity necklace featuring brilliant cut diamonds set in 18k white gold. Perfect for special occasions.",
+    "features": ["18k White Gold", "1.5 Carat Total Weight", "Brilliant Cut Diamonds", "16-inch Chain"]
+  },
+  {
+    "id": 2,
+    "name": "Sapphire Engagement Ring",
+    "price": 3200,
+    "category": "rings",
+    "image": "https://images.unsplash.com/photo-1600287648597-d81be16a5a16?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fFNhcHBoaXJlJTIwRW5nYWdlbWVudCUyMFJpbmd8ZW58MHx8MHx8fDA%3D",
+    "description": "Stunning sapphire engagement ring with diamond accents. Crafted in platinum for lasting beauty.",
+    "features": ["Platinum Setting", "2 Carat Sapphire", "Diamond Accents", "Size 7 (Resizable)"]
+  },
+  {
+    "id": 3,
+    "name": "Gold Tennis Bracelet",
+    "price": 1800,
+    "category": "bracelets",
+    "image": "https://plus.unsplash.com/premium_photo-1681276170069-36fa70186f7b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8R29sZCUyMFRlbm5pcyUyMEJyYWNlbGV0fGVufDB8fDB8fHww",
+    "description": "Classic tennis bracelet featuring round brilliant diamonds in 14k yellow gold setting.",
+    "features": ["14k Yellow Gold", "3 Carat Total Weight", "Round Brilliant Cut", "7-inch Length"]
+  },
+  {
+    "id": 4,
+    "name": "Pearl Drop Earrings",
+    "price": 850,
+    "category": "earrings",
+    "image": "https://images.unsplash.com/photo-1748679451857-2a25d0808857?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8UGVhcmwlMjBEcm9wJTIwRWFycmluZ3N8ZW58MHx8MHx8fDA%3D",
+    "description": "Elegant cultured pearl drop earrings with diamond tops in white gold setting.",
+    "features": ["14k White Gold", "Cultured Pearls", "Diamond Tops", "Post Back"]
+  },
+  {
+    "id": 5,
+    "name": "Ruby Heart Pendant",
+    "price": 1200,
+    "category": "necklaces",
+    "image": "https://images.unsplash.com/photo-1636103952204-0b738c225264?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bmVja2xhY2VzfGVufDB8fDB8fHww",
+    "description": "Romantic ruby heart pendant surrounded by diamonds on delicate gold chain.",
+    "features": ["14k Rose Gold", "1 Carat Ruby", "Diamond Halo", "18-inch Chain"]
+  },
+  {
+    "id": 6,
+    "name": "Emerald Cut Wedding Band",
+    "price": 2800,
+    "category": "rings",
+    "image": "https://plus.unsplash.com/premium_photo-1664790559995-5e6964f2c2db?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8V2VkZGluZyUyMEJhbmR8ZW58MHx8MHx8fDA%3D",
+    "description": "Sophisticated emerald cut diamond wedding band in platinum setting.",
+    "features": ["Platinum Band", "Emerald Cut Diamonds", "2.5 Carat Total", "Size 6 (Resizable)"]
+  },
+  {
+    "id": 7,
+    "name": "Vintage Charm Bracelet",
+    "price": 950,
+    "category": "bracelets",
+    "image": "https://images.unsplash.com/photo-1708221382764-299d9e3ad257?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8VmludGFnZSUyMENoYXJtJTIwQnJhY2VsZXR8ZW58MHx8MHx8fDA%3D",
+    "description": "Vintage-inspired charm bracelet with multiple charms in sterling silver.",
+    "features": ["Sterling Silver", "7 Charms Included", "Adjustable Length", "Vintage Design"]
+  },
+  {
+    "id": 8,
+    "name": "Diamond Stud Earrings",
+    "price": 1500,
+    "category": "earrings",
+    "image": "https://images.unsplash.com/photo-1713004539634-a6694a83f3d9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fERpYW1vbmQlMjBTdHVkJTIwRWFycmluZ3N8ZW58MHx8MHx8fDA%3D",
+    "description": "Classic diamond stud earrings featuring round brilliant cut diamonds in white gold.",
+    "features": ["14k White Gold", "1 Carat Each", "Round Brilliant Cut", "Screw Back"]
+  },
+  {
+    "id": 9,
+    "name": "Earing",
+    "price": 680,
+    "category": "necklaces",
+    "image": "https://images.unsplash.com/photo-1630019852942-f89202989a59?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZWFyaW5nfGVufDB8fDB8fHww",
+    "description": "Bold amethyst statement necklace perfect for evening wear and special occasions.",
+    "features": ["Sterling Silver", "Amethyst Stones", "20-inch Length", "Statement Design"]
+  },
+  {
+    "id": 10,
+    "name": "Rose Gold Stack Rings",
+    "price": 420,
+    "category": "rings",
+    "image": "https://images.unsplash.com/photo-1708221269367-ce41b47449d2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Um9zZSUyMEdvbGQlMjBTdGFjayUyMFJpbmdzfGVufDB8fDB8fHww",
+    "description": "Set of three delicate rose gold stacking rings with different textures.",
+    "features": ["14k Rose Gold", "Set of 3 Rings", "Various Textures", "Size 7 (Resizable)"]
+  },
+  
+  {
+    "id": 12,
+    "name": "Chandelier Earrings",
+    "price": 750,
+    "category": "earrings",
+    "image": "https://images.unsplash.com/photo-1615197419794-52a6f5da9df0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Q2hhbmRlbGllciUyMEVhcnJpbmdzfGVufDB8fDB8fHww",
+    "description": "Dramatic chandelier earrings with cascading crystals for formal occasions.",
+    "features": ["Sterling Silver", "Crystal Drops", "3-inch Length", "Post Back"]
+  }
+]
